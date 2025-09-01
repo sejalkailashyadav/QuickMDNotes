@@ -1,7 +1,6 @@
 
 ### QuickMDNotes - Advanced Note-Taking Web App
 
- 
 - Developed a **user-centric note-taking application** using **React** and **TypeScript** that provides a more advanced approach compared to traditional note-taking applications.
 - Integrated key features such as **Mark down and  support** for note creation, **category-based organization**, and a **filtering system** for the efficient note retrieval.
 - Implemented custom **React hooks** for data persistence with **LocalStorage**, providing seamless note and tag management.
