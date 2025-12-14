@@ -10,7 +10,7 @@
 - Technologies Used: React, TypeScript, LocalStorage, JSX, Markdown
 
 
-QuickMDNotes is an advanced note-takings application developed using Vite, React, and TypeScript. The application offers a range of functionalities such as categorization, markdown support, and note filtering.
+QuickMDNotes is an advanced note-takings application developed using Vite, React, and TypeScript. The application offers a range of functionalities such as categorization, markdown and note filtering.
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
