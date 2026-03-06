@@ -22,13 +22,13 @@ Before you begin, ensure you have met the following requirements:
 ## Installing QuickMDNotes
 
 https://dulcet-pixie-1de16a.netlify.app/
-To install QuickMDNotes, follow these steps:
+To install QuickMDNotes, follow these step
 
 ```bash
 # Clone repository
 [git clone https://github.com/<your-username>/quickmdnotes.git](https://github.com/sejalyadav0818/note-taking-app)
 
-# Navigate to the application folder
+# Navigate to the application folders
 cd quickmdnotes
 
 # Install dependencies
