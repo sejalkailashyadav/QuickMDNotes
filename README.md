@@ -6,7 +6,6 @@
 - Designed a **user-friendly interface** with dedicated pages for displaying and editing individual notes.
 - Ensured efficient data management through functionality for deleting notes and a modal for editing and deleting associated tags.
 - Designed a user-friendly interface with dedicated pages for creating, displaying, and editing notes.
-
 - Technologies Used: React, TypeScript, LocalStorage, JSX, Markdown
 
 QuickMDNotes is an advanced note-takings application developed using Vite, React, and TypeScript. The application offers a range of functionalities such as categorization, markdown and note filtering.
@@ -37,5 +36,4 @@ npm run dev
 ```
 
 ## Deployment
-
 Experience the application live on [QuickMDNotes](https://dulcet-pixie-1de16a.netlify.app/).
