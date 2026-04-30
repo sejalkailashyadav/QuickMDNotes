@@ -11,6 +11,7 @@
 QuickMDNotes is an advanced note-takings application developed using Vite, React, and TypeScript. The application offers a range of functionalities such as categorization, markdown and note filtering.
 
 ## Prerequisites
+
 Before you begin, ensure you have met the following requirements:
 
 * You have installed [Node.js](https://nodejs.org/) and npm (comes bundled with Node.js)
@@ -22,9 +23,11 @@ To install QuickMDNotes, follow these step
 
 ```bash
 # Clone repository
+
 [git clone https://github.com/<your-username>/quickmdnotes.git](https://github.com/sejalyadav0818/note-taking-app)
 
 # Navigate to the application folders
+
 cd quickmdnotes
 
 # Install dependencies
