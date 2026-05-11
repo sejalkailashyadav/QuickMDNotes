@@ -1,6 +1,7 @@
 ### QuickMDNotes - Advanced Note-Taking Web
 
 - Developed a **user-centric note-taking application** using **React** and **TypeScript** that provides a more advanced approach compared to traditional note-taking applications.
+- 
 - Integrated key features such as **Mark down and  support** for note creation, **category-based organization**, and a **filtering system** for the efficient note retrieval.
 - Implemented custom **React hooks** for data persistence with **LocalStorage**, providing seamless note and tag management.
 - Designed a **user-friendly interface** with dedicated pages for displaying and editing individual notes.
@@ -8,13 +9,12 @@
 - Designed a user-friendly interface with dedicated pages for creating, displaying, and editing notes.
 - Technologies Used: React, TypeScript, LocalStorage, JSX, Markdown
 
-QuickMDNotes is an advanced note-takings application developed using Vite, React, and TypeScript. The application offers a range of functionalities such as categorization, markdown and note filtering.
-
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
 * You have installed [Node.js](https://nodejs.org/) and npm (comes bundled with Node.js)
+
 * You have a basic understanding of React and TypeScript
 
 ## Installing QuickMDNotes
