@@ -1,7 +1,6 @@
 ### QuickMDNotes
 
-- Developed a **user-centric note-taking application** using **React** and **TypeScript** that provides a more advanced approach compared to traditional note-taking applications.
-- 
+- Developed a **user-centric note-taking application** using **React** and **TypeScript** that provides a more advanced approach compared to traditional note-taking app.
 - Integrated key features such as **Mark down and  support** for note creation, **category-based organization**, and a **filtering system** for the efficient note retrieval.
 - Implemented custom **React hooks** for data persistence with **LocalStorage**, providing seamless note and tag management.
 - Designed a **user-friendly interface** with dedicated pages for displaying and editing individual notes.
@@ -10,11 +9,8 @@
 - Technologies Used: React, TypeScript, LocalStorage, JSX, Markdown
 
 ## Prerequisites
-
 Before you begin, ensure you have met the following requirements:
-
 * You have installed [Node.js](https://nodejs.org/) and npm (comes bundled with Node.js)
-
 * You have a basic understanding of React and TypeScript
 
 ## Installing QuickMDNotes
@@ -23,13 +19,10 @@ To install QuickMDNotes, follow these step
 
 ```bash
 # Clone repository
-
 [git clone https://github.com/<your-username>/quickmdnotes.git](https://github.com/sejalyadav0818/note-taking-app)
 
 # Navigate to the application folders
-
 cd quickmdnotes
-
 # Install dependencies
 npm install
 
@@ -37,6 +30,5 @@ npm install
 npm run dev
 
 ```
-
 ## Deployment
 Experience the application live on [QuickMDNotes](https://dulcet-pixie-1de16a.netlify.app/).
