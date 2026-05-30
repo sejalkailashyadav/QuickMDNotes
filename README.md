@@ -12,23 +12,3 @@
 Before you begin, ensure you have met the following requirements:
 * You have installed [Node.js](https://nodejs.org/) and npm (comes bundled with Node.js)
 * You have a basic understanding of React and TypeScript
-
-## Installing QuickMDNotes
-https://dulcet-pixie-1de16a.netlify.app/
-To install QuickMDNotes, follow these step
-
-```bash
-# Clone repository
-[git clone https://github.com/<your-username>/quickmdnotes.git](https://github.com/sejalyadav0818/note-taking-app)
-
-# Navigate to the application folders
-cd quickmdnotes
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
-
-```
-## Deployment
-Experience the application live on [QuickMDNotes](https://dulcet-pixie-1de16a.netlify.app/).
