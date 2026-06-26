@@ -7,8 +7,3 @@
 - Ensured efficient data management through functionality for deleting notes and a modal for editing and deleting associated tags.
 - Designed a user-friendly interface with dedicated pages for creating, displaying, and editing notes.
 - Technologies Used: React, TypeScript, LocalStorage, JSX, Markdown
-
-## Prerequisites
-Before you begin, ensure you have met the following requirements:
-* You have installed [Node.js](https://nodejs.org/) and npm (comes bundled with Node.js)
-* You have a basic understanding of React and TypeScript
